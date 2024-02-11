@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Uzair Manan
 - 👀 I’m interested in Web development ( M E R N Stack )
 - 🌱 I’m currently learning Next JS
-- 💞️ I’m looking to collaborate on Nothing for now
+- 💞️ I’m looking to collaborate on any web project.
 - 📫 How to reach me : uzairmanan3@gmail.com || uzairmanandev@gmail.com
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I learned Javascript before HTML and CSS, My first programming language was python.
