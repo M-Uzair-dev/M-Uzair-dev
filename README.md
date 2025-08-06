@@ -37,6 +37,8 @@
 
 ---
 
+<br/>
+
 <div align="center">
 
 ## 💻 Tech Stack
@@ -50,6 +52,8 @@
 </div>
 
 ---
+
+<br/>
 
 <div align="center">
 
@@ -99,6 +103,8 @@
 
 ---
 
+<br/>
+
 <div align="center">
 
 ## 📊 GitHub Analytics
@@ -114,6 +120,8 @@
 
 ---
 
+<br/>
+
 <div align="center">
 
 ## 🏆 GitHub Trophies
@@ -125,6 +133,8 @@
 </div>
 
 ---
+
+<br/>
 
 <div align="center">
 
@@ -147,6 +157,8 @@
 
 ---
 
+<br/>
+
 <div align="center">
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
@@ -156,6 +168,8 @@
 </div>
 
 ---
+
+<br/>
 
 <div align="center">
 
@@ -169,6 +183,8 @@
 </div>
 
 ---
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
 
