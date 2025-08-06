@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Uzair%20Manan&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hello,%20I'm%20Uzair%20Manan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Web+Developer;Building+Bridges+Between+Your+Brand+and+the+Web;React+%7C+Node.js+%7C+MongoDB+%7C+Next.js;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG"/>
@@ -35,32 +35,17 @@
 
 <div align="center">
 
-## 💻 Tech Arsenal
-
-<div align="center">
-
-### Frontend Mastery
+## 💻 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Excellence
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
 
 </div>
 
@@ -75,7 +60,6 @@
 <div align="center">
 
 ### 🎨 BehindText (2025)
-
 <div align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat"/> <img src="https://img.shields.io/badge/Image%20Editing-4ECDC4?style=flat"/>
 </div>
@@ -85,7 +69,6 @@
 ---
 
 ### 🛍️ Corlee (2024)
-
 <div align="left">
 <img src="https://img.shields.io/badge/E--commerce-FF9500?style=flat"/> <img src="https://img.shields.io/badge/Full%20Stack-00D4AA?style=flat"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
 </div>
@@ -95,7 +78,6 @@
 ---
 
 ### 💬 Messegit (2023)
-
 <div align="left">
 <img src="https://img.shields.io/badge/Real--time-00D4FF?style=flat"/> <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=flat&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Group%20Chat-FF6B9D?style=flat"/>
 </div>
@@ -105,7 +87,6 @@
 ---
 
 ### 🌐 Thoughts Area (2024)
-
 <div align="left">
 <img src="https://img.shields.io/badge/Social%20Media-8B5CF6?style=flat"/> <img src="https://img.shields.io/badge/Multi--OAuth-F59E0B?style=flat"/> <img src="https://img.shields.io/badge/Community-10B981?style=flat"/>
 </div>
@@ -123,7 +104,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-Uzair-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Uzair-dev&theme=tokyonight&hide_border=true"/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Uzair-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Uzair-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
@@ -168,13 +149,9 @@
 
 <div align="center">
 
-### 🐍 Watch the Snake Eat My Contributions
+### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Uzair-dev/M-Uzair-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Uzair-dev/M-Uzair-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/M-Uzair-dev/M-Uzair-dev/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/M-Uzair-dev/M-Uzair-dev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
