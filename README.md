@@ -2,25 +2,13 @@
 
 <img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hello,%20I'm%20Uzair%20Manan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Web+Developer;Building+Bridges+Between+Your+Brand+and+the+Web;React+%7C+Node.js+%7C+MongoDB+%7C+Next.js;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG"/>
-</div>
-
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Web+Developer;Building+Bridges+Between+Your+Brand+and+the+Web;React+%7C+Node.js+%7C+MongoDB+%7C+Next.js;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG"/>
 
 [![](https://visitcount.itsvg.in/api?id=M-Uzair-dev&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
-<br/><br/>
-
-<div align="center">
-
 ## 🚀 About Me
-
-<br/>
-
-</div>
 
 🎓 **Bachelor's in Software Engineering** from University of Karachi  
 📍 **Based in** Karachi, Pakistan  
@@ -31,17 +19,9 @@
 📱 **Phone:** +923168067371  
 🌐 **Website:** [uzairmanan.com](https://www.uzairmanan.com)
 
-<br/><br/>
-
----
-
-<br/>
-
-<div align="center">
-
 ## 💻 Tech Stack
 
-<br/>
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -49,17 +29,7 @@
 
 </div>
 
----
-
-<br/>
-
-<div align="center">
-
 ## 🎯 Featured Projects
-
-<br/>
-
-</div>
 
 <div align="center">
 
@@ -99,15 +69,9 @@
 
 </div>
 
----
-
-<br/>
-
-<div align="center">
-
 ## 📊 GitHub Analytics
 
-<br/>
+<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-Uzair-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Uzair-dev&theme=tokyonight&hide_border=true"/>
@@ -116,29 +80,15 @@
 
 </div>
 
----
-
-<br/>
-
-<div align="center">
-
 ## 🏆 GitHub Trophies
 
-<br/>
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=M-Uzair-dev&theme=tokyonight&no-frame=true&column=7"/>
 
 </div>
 
----
-
-<br/>
-
-<div align="center">
-
 ## 🤝 Let's Connect & Collaborate
-
-<br/>
 
 <div align="center">
 
@@ -151,29 +101,9 @@
 
 </div>
 
-</div>
-
----
-
-<br/>
+## 🐍 Contribution Snake
 
 <div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<br/>
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -182,13 +112,9 @@
 
 ---
 
-<br/>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
-
----
-
-<div align="center">
 
 **⭐ Star my repositories if you find them interesting!**  
 **🔔 Follow me to stay updated with my latest projects**  
