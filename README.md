@@ -31,7 +31,9 @@
 📱 **Phone:** +923168067371  
 🌐 **Website:** [uzairmanan.com](https://www.uzairmanan.com)
 
-<div align="center">
+---
+
+<!-- <div align="center"> -->
 
 ## 💻 Tech Stack
 
