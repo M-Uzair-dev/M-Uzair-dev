@@ -49,8 +49,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## 🎯 Featured Projects
@@ -60,6 +58,7 @@
 <div align="center">
 
 ### 🎨 BehindText (2025)
+
 <div align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat"/> <img src="https://img.shields.io/badge/Image%20Editing-4ECDC4?style=flat"/>
 </div>
@@ -69,6 +68,7 @@
 ---
 
 ### 🛍️ Corlee (2024)
+
 <div align="left">
 <img src="https://img.shields.io/badge/E--commerce-FF9500?style=flat"/> <img src="https://img.shields.io/badge/Full%20Stack-00D4AA?style=flat"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
 </div>
@@ -78,6 +78,7 @@
 ---
 
 ### 💬 Messegit (2023)
+
 <div align="left">
 <img src="https://img.shields.io/badge/Real--time-00D4FF?style=flat"/> <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=flat&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Group%20Chat-FF6B9D?style=flat"/>
 </div>
@@ -87,6 +88,7 @@
 ---
 
 ### 🌐 Thoughts Area (2024)
+
 <div align="left">
 <img src="https://img.shields.io/badge/Social%20Media-8B5CF6?style=flat"/> <img src="https://img.shields.io/badge/Multi--OAuth-F59E0B?style=flat"/> <img src="https://img.shields.io/badge/Community-10B981?style=flat"/>
 </div>
@@ -102,7 +104,6 @@
 ## 📊 GitHub Analytics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-Uzair-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Uzair-dev&theme=tokyonight&hide_border=true"/>
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Uzair-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
@@ -138,8 +139,6 @@
 ---
 
 <div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
